@@ -22,8 +22,8 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope:I have a passion for both frontend and backend development, as well as a strong interest in constructing web applications.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope:I have a passion for both frontend and backend development, as well as a strong interest in buiding web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
