@@ -27,7 +27,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap:  I’m currently working on GenCode A free, open-source, that helps you generate Qr code.
+
+- 💻 I’m open to Jobs or internships as a Fullstack Engineer, or Product Ambassador.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dina-iyanuloluwa-anuoluwapo-0b515720a)
 
