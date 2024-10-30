@@ -21,15 +21,29 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope:I have a passion for both frontend and backend development, as well as a strong interest in buiding web applications.
+- # 👨‍💻 About Me
 
-- :seedling: Exploring Technical Content Writing.
+I am a Software Engineer from Nigeria, passionate about crafting impactful digital solutions through both frontend and backend development. My journey in tech is fueled by a commitment to continuous learning, innovation, and creating seamless, user-centric experiences.
 
-- :zap:  I’m currently working on GenCode A free, open-source, that helps you generate Qr code.
+## 🌐 Full-Stack Enthusiast
+- Skilled in developing dynamic web applications with a focus on scalability, responsiveness, and clean code. I’m passionate about integrating frontend interfaces with robust backend services.
 
-- 💻 I’m open to Jobs or internships as a Fullstack Engineer, or Product Ambassador.
+## ✍️ Technical Writer
+- Exploring technical content writing to share knowledge, document processes, and contribute to the developer community by providing accessible, insightful resources.
+
+## 🚀 Current Project
+- Working on **GenCode** – a free, open-source tool designed to empower users by providing customizable QR code generation with unique styling options. This project reflects my commitment to open-source development and user-centered design.
+
+## 💡 Tech Skills
+- Experienced in technologies like JavaScript, Node.js, Vue.js, React, Express.js, Docker, and more. Always eager to adopt new tools and frameworks to enhance my skill set.
+
+## 💼 Career Goals
+- Actively seeking roles or internships as a **Full-Stack Engineer** or **Product Ambassador** where I can leverage my technical abilities, bring value to meaningful projects, and grow within a team that values innovation and creativity.
+
+---
+
+Feel free to reach out if you're interested in collaborating or if you have any opportunities that align with my skills and passions!
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dina-iyanuloluwa-anuoluwapo-0b515720a)
 
