@@ -68,6 +68,7 @@ Feel free to reach out if you're interested in collaborating or if you have any 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx"  width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase"  width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NESTJS" alt="NESTJS"  width="80" height="80"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/figma-original.svg" title="FIGMA" alt="FIGMA"  width="80" height="80"/>&nbsp; 
   <!-- Frontend Technologies -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"  width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3"  width="80" height="80"/>&nbsp;
