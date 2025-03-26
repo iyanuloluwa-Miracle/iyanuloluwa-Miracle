@@ -69,14 +69,15 @@ I'm a passionate Full-Stack Developer from Nigeria, transforming innovative idea
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔥 Current Project: GenCode
+### 🔥 Current Project: LinkMagic
 
-**GenCode** is my open-source QR code generation tool that empowers users with customizable styling options. It represents my commitment to creating user-centric, innovative solutions.
+**LinkMagic** is my open-source that helps you shorten Url shortener.
 
 ### 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iyanuloluwa-Miracle&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyanuloluwa-Miracle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=iyanuloluwa-Miracle&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iyanuloluwa-Miracle&theme=dark&background=000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iyanuloluwa-Miracle&layout=compact&theme=vision-friendly-dark)
 
 ### 📫 Let's Connect!
 
