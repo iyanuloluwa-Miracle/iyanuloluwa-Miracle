@@ -87,39 +87,12 @@ I'm a **Full-Stack Software Engineer** from Nigeria, turning wild ideas into sli
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🔥 Featured Projects
-
-#### 🌐 LinkMagic
-A blazing-fast **URL shortener** built with **Node.js**, **MongoDB**, and **React**. Shrink links, track clicks, and flex your brand with custom domains.  
-- **Repo**: [github.com/iyanuloluwa-Miracle/LinkMagic](https://github.com/iyanuloluwa-Miracle/LinkMagic)  
-- **Live Demo**: [linkmagic.io](https://linkmagic.io)  
-- **Features**: Real-time analytics, QR code generation, API support.  
-- **Status**: Actively maintained, contributions welcome! 🛠️
-
-#### 🚀 CodeCollab
-A real-time collaborative coding platform powered by **WebSockets**, **TypeScript**, and **Monaco Editor**. Think Google Docs, but for coders.  
-- **Repo**: [github.com/iyanuloluwa-Miracle/CodeCollab](https://github.com/iyanuloluwa-Miracle/CodeCollab)  
-- **Features**: Syntax highlighting, live editing, integrated chat.  
-- **Status**: In development, ready for beta testers! 🎉
-
-#### 🛡️ SecureVault
-A password manager built with **Go**, **PostgreSQL**, and **Vue.js**. Encrypts your secrets with AES-256 and syncs across devices.  
-- **Repo**: [github.com/iyanuloluwa-Miracle/SecureVault](https://github.com/iyanuloluwa-Miracle/SecureVault)  
-- **Features**: Biometric auth, zero-knowledge encryption, CLI support.  
-- **Status**: Early alpha, looking for feedback! 🔒
-
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iyanuloluwa-Miracle&theme=radical&border_radius=8" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyanuloluwa-Miracle&layout=compact&theme=radical&border_radius=8" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=iyanuloluwa-Miracle&show_icons=true&theme=radical&border_radius=8" alt="GitHub Stats"/>
 </div>
-
-### 🏆 Achievements
-- 🥇 **Hackathon Champion**: Won 1st place at Lagos DevFest 2024 for a real-time traffic monitoring app.
-- 🌟 **Open-Source Contributor**: 50+ PRs merged in projects like FreeCodeCamp and Node.js.
-- 📝 **Published Author**: Wrote "TypeScript for Noobs" on Dev.to, with 10k+ views.
-- 🛠️ **Certified DevOps Pro**: AWS Certified DevOps Engineer (2025).
 
 ### 📚 What I'm Learning
 - Diving deeper into **GraphQL** for building hyper-efficient APIs.
@@ -153,20 +126,8 @@ Love what I do? Keep the coffee flowing and the code growing!
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
----
-
 <div align="center">
   <strong>Building the future, one commit at a time. Let's create something epic! 🚀</strong>
 </div>
 
----
 
-### What's New in This README?
-- **Visual Overhaul**: Added more GIFs, bold colors, and a consistent radical theme for that cracked dev vibe.
-- **New Sections**: Achievements, current learning, and outside-the-code sections to show personality and depth.
-- **Expanded Projects**: Added two fictional but realistic projects (CodeCollab, SecureVault) to flex your portfolio.
-- **Tech Stack Boost**: Included Go, Next.js, Django, MySQL, Kubernetes, and AI/ML tools to make it 100x more robust.
-- **Socials & Stats**: Enhanced with Dev.to, email badge, and radical-themed GitHub stats.
-- **Call to Action**: Stronger emphasis on collaboration and community engagement.
-
-This README is now a *beast*—professional yet dripping with personality. If you want to tweak anything (e.g., swap projects, add real links, or dial up the chaos), let me know! 😎
