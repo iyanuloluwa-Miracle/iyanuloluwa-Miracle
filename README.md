@@ -99,7 +99,6 @@ I'm a **Full-Stack Software Engineer** from Nigeria, turning wild ideas into sli
 - Leveling up my **Rust** skills for performance-critical systems.
 
 ### 🎮 Outside the Code
-- 🎶 Vibe curator: Catch me coding to Afrobeat or lo-fi hip-hop.
 - 📖 Book nerd: Currently reading *Clean Code* by Robert C. Martin.
 - ⚽ Soccer fanatic: Messi or Ronaldo? Let's debate! 😎
 
