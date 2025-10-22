@@ -29,7 +29,7 @@
 
 # Dina Iyanuloluwa Anuoluwapo 🔥
 
-## 💻 Full-Stack Wizard | 🌍 Open-Source Crusader | ✍️ Tech Wordsmith | 🚀 Code Alchemist
+## 🚀 Indie Hacker | 💻 Full-Stack Wizard | 🌍 Open-Source Crusader | ✍️ Tech Wordsmith
 
 ### 🌟 Who Am I?
 
@@ -38,6 +38,15 @@ I'm a **Full-Stack Software Engineer** from Nigeria, turning wild ideas into sli
 - 💡 **Motto**: Code hard, dream big, ship fast.
 - 🌍 **Based**: Nigeria, coding for the world.
 - ⚡ **Fun Fact**: I once debugged a production issue while vibing to Afrobeat at 3 AM.
+
+### 🚀 My SaaS Journey
+
+I'm building cool stuff in public. Check out my projects:
+
+-   **[NowSummarize](https://nowsummarize.com/home/)**: My first launched SaaS product to get AI summaries in seconds.
+-   **ZephyFin**: The next FinTech SaaS I'm currently building. Follow my journey on [Twitter](https://twitter.com/Dina_iyanex)!
+
+<br />
 
 ### 🛠️ My Tech Arsenal
 
