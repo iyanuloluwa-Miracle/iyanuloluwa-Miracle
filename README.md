@@ -44,6 +44,9 @@ I'm a **Full-Stack Software Engineer** from Nigeria, turning wild ideas into sli
 I'm building cool stuff in public. Check out my projects:
 
 -   **[NowSummarize](https://nowsummarize.com/home/)**: My first launched SaaS product to get AI summaries in seconds.
+<br />
+
+<a href="https://www.producthunt.com/products/nowsummarize?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-nowsummarize" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1029491&theme=neutral&t=1761265772724" alt="NowSummarize - Get&#0032;a&#0032;beautiful&#0032;summary&#0032;reel&#0032;of&#0032;the&#0032;document&#0032;in&#0032;seconds | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 -   **ZephyFin**: The next FinTech SaaS I'm currently building. Follow my journey on [Twitter](https://twitter.com/Dina_iyanex)!
 
 <br />
