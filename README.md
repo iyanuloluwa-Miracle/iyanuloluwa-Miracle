@@ -45,8 +45,7 @@ I'm building cool stuff in public. Check out my projects:
 
 -   **[NowSummarize](https://nowsummarize.com/home/)**: My first launched SaaS product to get AI summaries in seconds.
 <br />
--   **TemplateDrop**: Introducing TemplateDrop — a completely free library of curated cold email templates for sales, marketing, and outreach. [TemplateDrop](https://templatedrop.buzz/)!
-
+-   **[TemplateDrop](https://templatedrop.buzz/)**: Introducing TemplateDrop — a completely free library of curated cold email templates for sales, marketing, and outreach. !
 <br />
 
 ### 🛠️ My Tech Arsenal
