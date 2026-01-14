@@ -29,11 +29,8 @@
 
 # Dina Iyanuloluwa Anuoluwapo 🔥
 
-## 🚀 Indie Hacker | 💻 Full-Stack Wizard | 🌍 Open-Source Crusader | ✍️ Tech Wordsmith
-
 ### 🌟 Who Am I?
-
-I'm a **Full-Stack Software Engineer** from Nigeria, turning wild ideas into slick, scalable digital realities. I live for crafting pixel-perfect UIs, bulletproof backends, and everything in between. My code? Clean. My vibe? Unstoppable. My mission? To build tech that *slaps* and inspires the next gen of coders.
+I'm a **Backend-focused Software Engineer** and **Mechanical Engineering graduate**. I specialize in turning complex logic into scalable digital realities. Whether it's architecting bulletproof APIs or shipping SaaS products from scratch, I build tech that is efficient, performant, and impactful.
 
 - 💡 **Motto**: Code hard, dream big, ship fast.
 - 🌍 **Based**: Nigeria, coding for the world.
