@@ -40,6 +40,8 @@ I'm a **Backend-focused Software Engineer** and **Mechanical Engineering graduat
 
 I'm building cool stuff in public. Check out my projects:
 
+-  **[Texteo](https://texteo.site/)**: Create Blog Posts & Social Media Content from Any URL
+
 -   **[NowSummarize](https://nowsummarize.com/home/)**: My first launched SaaS product to get AI summaries in seconds.
 
 -  **[TemplateDrop](https://templatedrop.buzz/)**: Introducing TemplateDrop — a completely free library of curated cold email templates for sales, marketing, and outreach.
