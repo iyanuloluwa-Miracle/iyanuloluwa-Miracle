@@ -122,7 +122,7 @@ I'm building cool stuff in public. Check out my projects:
   <a href="https://dev.to/dinaiyanu">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="mailto:dinaiyanu@example.com">
+  <a href="iyanudina@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
