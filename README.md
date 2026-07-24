@@ -127,12 +127,6 @@ I'm building cool stuff in public. Check out my projects:
   </a>
 </div>
 
-### ☕ Fuel My Code
-Love what I do? Keep the coffee flowing and the code growing!  
-<a href="https://www.buymeacoffee.com/DinaIyanu" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
-
 <div align="center">
   <strong>Building the future, one commit at a time. Let's create something epic! 🚀</strong>
 </div>
